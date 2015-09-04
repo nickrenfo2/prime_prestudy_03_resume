@@ -1,0 +1,9 @@
+Changed the main content Div to a Main.
+Removed a wrapping Div from Main (it had no purpose)
+Changed div containing my picture to a Figure
+replaced all divs wrapping the "objective" "Work Experience", etc sections with a Section tag
+Removed divs wrapping list items and unordered lists (no purpose)
+Replaced divs surrounding ieditweb job experience and UND tech support respectively with Article tags
+Replaced divs surrounding UND Education experience and iEditWeb Education respectively with Article tags
+Replaced Footer div with the Footer element
+removed some unnecessary divs
